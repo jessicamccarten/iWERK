@@ -1,2 +1,0 @@
-# werkit
-CodeFirstGirls group competition 
