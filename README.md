@@ -1,2 +1,2 @@
-# werkit
+# iWERK
 CodeFirstGirls group competition 
