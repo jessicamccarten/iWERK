@@ -1,10 +1,58 @@
 header {
   color:pink;
   text-align: center;
-  font-family: sans-serif;
+  font-family: helvetica;
   font-size: 50px;
-  
 
+}
+
+body {
+  background: url("https://www.beautycolorcode.com/fffdd0.png");
+  background-size: cover;
+}
+
+h1 {
+  color:pink;
+  font-weight:lighter;
+  font-family:helvetica;
+  font-size: 25px;
+  text-align:center;
+}
+
+h2 {
+font-family:helvetica;
+font-size: 20px;
+font-weight: lighter;
+  text-align: center;
+  color: red;
+}
+
+p {
+  text-align: center;
+}
+
+img {
+text-align: center;
+
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
+div {
+  text-align:center;
+}
+
+li {
+  text-align: center;
+  font-family:helvetica;
+  color: grey;
+  font-size: 20px
+
+}
+
+}
 
 
 }

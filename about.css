@@ -1,0 +1,33 @@
+header
+  {
+    font-family:helvetica;
+    font-size: 30px;
+    color: grey;
+    padding: 5px;
+    text-align:center;
+  }
+div {
+  text-align:center;
+  padding: 50px;
+  border-radius: 20px
+
+}
+p {
+  font-size: 20px;
+  color: grey;
+  text-align: center;
+  font-family:sans-serif;
+  margin-right: auto;
+    margin-left: auto;
+    max-width: 960px;
+    padding-right: 10px;
+    padding-left:  10px;
+
+}
+
+div about {
+  font-size: 15px
+  color: red;
+  text-align: center
+  font-family:sans-serif;
+}
