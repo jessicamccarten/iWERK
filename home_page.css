@@ -1,0 +1,64 @@
+header {
+  font-size:30px;
+  font-family: cursive;
+}
+
+body {
+  background: url("https://www.beautycolorcode.com/fffdd0.png");
+  background-size: cover;
+}
+
+
+h2 {
+font-family:helvetica;
+font-size: 20px;
+font-weight: lighter;
+  text-align: center;
+  color: red;
+}
+
+p {
+  text-align: center;
+}
+
+img {
+text-align: center;
+
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
+.top-column{
+  display: inline-block;
+}
+
+
+
+div {
+  text-align:center;
+}
+
+li {
+  text-align: center;
+  font-family:helvetica;
+  color: grey;
+  font-size: 20px
+
+}
+a {
+  font-size: 30px
+}
+#mainpic {
+  width: 400px;
+}
+
+form{
+  margin: 0 auto;
+  width: 200px;
+}
+#sidepic{
+  width: 200px;
+    float: right;
+}
