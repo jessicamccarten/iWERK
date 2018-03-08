@@ -9,7 +9,7 @@ header {
 body {
   background: url("https://www.beautycolorcode.com/fffdd0.png");
   background-size: cover;
-}
+font-family: helvetica;}
 
 h1 {
   color:pink;
@@ -24,7 +24,7 @@ font-family:helvetica;
 font-size: 20px;
 font-weight: lighter;
   text-align: center;
-  color: red;
+  color: pink;
 }
 
 p {
@@ -49,5 +49,3 @@ li {
   font-family:helvetica;
   color: grey;
   font-size: 20px
-
-}
