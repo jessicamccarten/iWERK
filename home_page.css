@@ -1,0 +1,73 @@
+header {
+  font-size:40px;
+  font-family: cursive;
+}
+
+#sidepic{
+  width: 400px;
+  height: 400px;
+}
+
+#freewomen{
+  width:400px
+}
+
+  }
+
+}
+body {
+  background-size: cover;
+  background-color: :#d3bed6;
+
+}
+
+
+h2 {
+font-family:helvetica;
+font-size: 20px;
+font-weight: lighter;
+text-align: center;
+color: red;
+}
+
+p {
+  text-align: center;
+}
+
+img {
+text-align: center;
+
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
+.top-column{
+  display: inline-block;
+}
+
+
+
+div {
+  text-align:center;
+}
+
+li {
+  text-align: center;
+  font-family:helvetica;
+  color: grey;
+  font-size: 20px
+
+}
+a {
+  font-size: 30px
+}
+#mainpic {
+  width: 400px;
+
+}
+
+form{
+  margin: 0 auto;
+  width: 200px;
