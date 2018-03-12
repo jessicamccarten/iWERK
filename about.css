@@ -46,11 +46,18 @@ a {
   text-align: center;
 }
 
-h2 {
-  text-align: center;
+h4 {
+  font-size: 20px;
+  color:pink;
+  text-align:center;
   font-family:sans-serif;
-  display:inline;
-  padding:15px;
+}
 
+h2 {
+
+  font-family:sans-serif;
+display: inline;
+text-align: center;
+  padding:15px;
 
 }
