@@ -2,6 +2,9 @@ header {
   font-size:40px;
   font-family: cursive;
 }
+.bgpink{
+  background-color: pink;
+}
 
 #sidepic{
   width: 400px;
@@ -17,10 +20,12 @@ header {
 }
 body {
   background-size: cover;
-  background-color: :#d3bed6;
+  background-color: :#fffec6;
 
 }
-
+h1{
+  color: pink;
+}
 
 h2 {
 font-family:helvetica;
