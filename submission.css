@@ -44,8 +44,12 @@ div {
   text-align:center;
 }
 
+div submission {
+  display: block;
+}
+
 li {
   text-align: center;
   font-family:helvetica;
   color: grey;
-  font-size: 20px
+  font-size: 20px;

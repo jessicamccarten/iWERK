@@ -6,6 +6,9 @@ header {
 .bgpink{
   background-color: pink;
 }
+.bgpink{
+  background-color: pink;
+}
 
 #sidepic{
   width: 400px;
@@ -20,9 +23,7 @@ header {
 
 }
 body {
-  background-size: cover;
-<<<<<<< HEAD
-  background-color: :yellow;
+  background-size: cover;s  background-color: :#fffec6;
 =======
   background-color: :#fffec6;
 >>>>>>> 384313fb3a731a63774269045df98471072890ce
@@ -82,7 +83,6 @@ form{
   margin: 0 auto;
   width: 200px;
 }
-<<<<<<< HEAD
 =======
 .fa-facebook {
   background: #3B5998;
