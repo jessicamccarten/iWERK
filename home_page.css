@@ -1,0 +1,122 @@
+header {
+  font-size:40px;
+  font-family: sans-serif;
+  color: grey;
+}
+.bgpink{
+background-color: :#fffec6;
+}
+.bgpink{
+background-color: :#fffec6;
+}
+
+#sidepic{
+  width: 400px;
+  height: 400px;
+}
+
+#freewomen{
+  width:400px
+}
+
+  }
+
+}
+body {
+  background-size: cover;s  background-color: :#fffec6;
+=======
+  background-color: :#fffec6;
+>>>>>>> 384313fb3a731a63774269045df98471072890ce
+
+}
+h1{
+  color: grey;
+  padding-top: 20px;
+  font-size: 30px;
+
+}
+
+h2 {
+padding-top: 200px;
+font-family:sans-serif;
+font-size: 20px;
+font-weight: lighter;
+text-align: center;
+color: grey;
+}
+
+p {
+  text-align: center;
+}
+
+img {
+text-align: center;
+padding-top: 20px;
+
+
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
+.top-column{
+  display: inline-block;
+}
+
+
+
+div {
+  text-align:center;
+}
+
+li {
+  text-align: center;
+  font-family:helvetica;
+  color: grey;
+  font-size: 20px
+
+}
+a {
+  font-size: 30px
+}
+#mainpic {
+  width: 400px;
+
+}
+
+form{
+  margin: 0 auto;
+  width: 200px;
+
+}
+=======
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa {
+  padding: 15px;
+  font-size: 30px;
+  width: 60px;
+  height: 60px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+>>>>>>> 384313fb3a731a63774269045df98471072890ce

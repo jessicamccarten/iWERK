@@ -1,0 +1,73 @@
+header
+  {
+    font-family:helvetica;
+    font-size: 30px;
+    color: grey;
+    padding: 5px;
+    text-align:center;
+  }
+div {
+  text-align:center;
+  padding: 50px;
+  border-radius: 20px
+
+}
+p {
+  font-size: 20px;
+  color: grey;
+  text-align: center;
+  font-family:sans-serif;
+  margin-right: auto;
+    margin-left: auto;
+    max-width: 960px;
+    padding-right: 10px;
+    padding-left:  10px;
+
+}
+
+div about {
+  font-size: 15px
+  color: red;
+  text-align: center
+  font-family:sans-serif;
+}
+
+h3 {
+  font-family:sans-serif;
+  font-size: 20px;
+  color: pink;
+  text-align:center;
+  padding-top:700px;
+}
+
+a {
+  font-size: 20px;
+  color: pink;
+  text-align: center;
+}
+
+
+
+h4 {
+  font-size: 20px;
+  color:pink;
+  text-align:center;
+  font-family:sans-serif;
+}
+
+h2 {
+
+  font-family:sans-serif;
+display: inline;
+text-align: center;
+  padding:20px;
+
+}
+
+h5 {
+  padding:70px;
+  font-size: 15px
+  display:inline-block;
+  color: grey;
+  font-family: sans-serif;
+}
