@@ -4,10 +4,10 @@ header {
   color: grey;
 }
 .bgpink{
-  background-color: pink;
+background-color: :#fffec6;
 }
 .bgpink{
-  background-color: pink;
+background-color: :#fffec6;
 }
 
 #sidepic{
@@ -30,15 +30,19 @@ body {
 
 }
 h1{
-  color: pink;
+  color: grey;
+  padding-top: 20px;
+  font-size: 30px;
+
 }
 
 h2 {
-font-family:helvetica;
+padding-top: 200px;
+font-family:sans-serif;
 font-size: 20px;
 font-weight: lighter;
 text-align: center;
-color: red;
+color: grey;
 }
 
 p {
@@ -47,6 +51,8 @@ p {
 
 img {
 text-align: center;
+padding-top: 20px;
+
 
 }
 
@@ -82,6 +88,7 @@ a {
 form{
   margin: 0 auto;
   width: 200px;
+
 }
 =======
 .fa-facebook {
