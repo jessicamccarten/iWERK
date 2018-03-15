@@ -1,6 +1,10 @@
 header {
   font-size:40px;
-  font-family: cursive;
+  font-family: sans-serif;
+  color: grey;
+}
+.bgpink{
+  background-color: pink;
 }
 
 #sidepic{
@@ -17,10 +21,16 @@ header {
 }
 body {
   background-size: cover;
-  background-color: :#d3bed6;
+<<<<<<< HEAD
+  background-color: :yellow;
+=======
+  background-color: :#fffec6;
+>>>>>>> 384313fb3a731a63774269045df98471072890ce
 
 }
-
+h1{
+  color: pink;
+}
 
 h2 {
 font-family:helvetica;
@@ -71,3 +81,35 @@ a {
 form{
   margin: 0 auto;
   width: 200px;
+}
+<<<<<<< HEAD
+=======
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+.fa {
+  padding: 15px;
+  font-size: 30px;
+  width: 60px;
+  height: 60px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+>>>>>>> 384313fb3a731a63774269045df98471072890ce
